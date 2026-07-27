@@ -12,3 +12,5 @@ Na pasta `Exercícios` tem uma série de scripts com resoluções de tarefas e q
 
 ### Shiny 
 
+
+### info
