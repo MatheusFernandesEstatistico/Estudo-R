@@ -11,6 +11,6 @@ Na pasta `Exercícios` tem uma série de scripts com resoluções de tarefas e q
 
 
 ### Shiny 
-
+A ferramenta [*Shiny*](https://shiny.posit.co/r/) é um framework de código aberto criado pela *Posit* que permite construir aplicações web interativas e dashboards avançados usando apenas Python. Ele dispensa a necessidade de programar em HTML, CSS ou JavaScript. Pode-se ver um curso feito pelo [*xxxx*]() no canal do [*xxxx*](). 
 
 ### info
