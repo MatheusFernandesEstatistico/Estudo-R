@@ -1,4 +1,4 @@
-# Estudo_R
+# Estudo de R
 Repositório dedicado ao estudo da linguagem R para fins de programação científica.
 
 ### Curso 
